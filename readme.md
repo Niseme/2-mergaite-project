@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Serlokas
+# The Girl
 
 _32 group website project_
 
@@ -11,7 +11,7 @@ This project is for **educational** porpuses only. Pull request are welcome, but
 
 Site published at: https://niseme.github.io/2-mergaite-project/
 
-Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
+Design: [Mergaite](https://cdn.discordapp.com/attachments/850245533838868480/850246211415834634/unknown.png)
 
 ## Project features
 
